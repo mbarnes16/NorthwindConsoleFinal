@@ -1,0 +1,166 @@
+2021-05-03 14:55:07.4905|INFO|NorthwindConsole2.Program|Program started
+2021-05-03 14:55:09.9585|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-03 14:55:13.2160|INFO|NorthwindConsole2.Program|Validation passed
+2021-05-03 14:55:13.4332|INFO|NorthwindConsole2.Program|Product added - "Shoe"
+2021-05-03 14:58:11.4890|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-03 14:58:11.4890|INFO|NorthwindConsole2.Program|Program ended
+2021-05-03 14:59:55.5953|INFO|NorthwindConsole2.Program|Program started
+2021-05-03 14:59:58.9085|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-03 15:00:19.9915|ERROR|NorthwindConsole2.Program|Product Name : Name exists
+2021-05-03 15:00:36.9129|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-03 15:01:02.7743|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-03 15:01:02.9916|INFO|NorthwindConsole2.Program|Product added - "Purple Shoe"
+2021-05-03 15:01:25.4963|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-03 15:03:36.8910|ERROR|NorthwindConsole2.Program|ProductName : Name exists
+2021-05-03 15:03:44.7485|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-03 15:04:50.2064|INFO|NorthwindConsole2.Program|Validation passed
+2021-05-03 15:04:50.3050|INFO|NorthwindConsole2.Program|Product (id: 79) updated
+2021-05-03 15:05:05.0884|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-03 15:05:08.9511|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-03 15:05:24.8473|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-03 15:05:30.1766|INFO|NorthwindConsole2.Program|Displaying discontinued products
+2021-05-03 15:06:30.1303|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-03 15:06:30.1303|INFO|NorthwindConsole2.Program|Program ended
+2021-05-03 15:13:46.3689|INFO|NorthwindConsole2.Program|Program started
+2021-05-03 15:13:48.4931|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-03 15:14:08.7305|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-03 15:14:08.9577|INFO|NorthwindConsole2.Program|Product added - "Purple Shoe"
+2021-05-03 15:14:19.9519|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-03 15:16:16.0919|ERROR|NorthwindConsole2.Program|Product Name : Name exists
+2021-05-03 15:16:37.6552|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-03 15:17:11.4449|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-03 15:17:11.5382|INFO|NorthwindConsole2.Program|Product (id: 80) updated
+2021-05-03 15:17:28.6319|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-03 15:18:14.1655|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-03 15:21:53.2714|INFO|NorthwindConsole2.Program|Option 4 selected
+2021-05-03 15:22:47.2492|INFO|NorthwindConsole2.Program|Displaying Product ID: 80
+2021-05-03 15:23:57.6415|INFO|NorthwindConsole2.Program|Option 5 selected
+2021-05-03 15:25:01.5263|INFO|NorthwindConsole2.Program|Option 6 selected
+2021-05-03 15:25:47.5234|INFO|NorthwindConsole2.Program|Validation passed
+2021-05-03 15:26:01.9702|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-03 15:27:42.2706|INFO|NorthwindConsole2.Program|CategoryId 1 selected
+2021-05-03 15:28:23.1106|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-03 15:28:26.8489|INFO|NorthwindConsole2.Program|CategoryId 8 selected
+2021-05-03 15:28:30.2642|INFO|NorthwindConsole2.Program|Option 8 selected
+2021-05-03 15:33:51.7410|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-03 15:33:51.7410|INFO|NorthwindConsole2.Program|Program ended
+2021-05-03 15:39:13.5229|INFO|NorthwindConsole2.Program|Program started
+2021-05-03 15:39:16.9175|INFO|NorthwindConsole2.Program|Option 5 selected
+2021-05-03 15:41:12.0093|INFO|NorthwindConsole2.Program|Category Name Validation Passed
+2021-05-03 15:41:12.1983|INFO|NorthwindConsole2.Program|Category Added = "Apparel"
+2021-05-03 15:42:36.5704|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-03 15:42:36.5953|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-03 15:43:33.8362|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-03 15:43:33.8362|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-03 15:45:19.4312|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-03 15:45:19.4312|INFO|NorthwindConsole2.Program|Program ended
+2021-05-03 15:47:31.4589|INFO|NorthwindConsole2.Program|Program started
+2021-05-03 15:47:42.7382|INFO|NorthwindConsole2.Program|Option 5 selected
+2021-05-03 15:48:38.5278|INFO|NorthwindConsole2.Program|Category Name Validation Passed
+2021-05-03 15:48:38.7377|INFO|NorthwindConsole2.Program|Category Added = "Dessert"
+2021-05-03 15:48:51.6241|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-03 15:48:51.6484|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-03 15:49:24.1611|INFO|NorthwindConsole2.Program|Option 8 selected
+2021-05-03 15:49:24.1611|INFO|NorthwindConsole2.Program|Displaying all categories and their active products
+2021-05-03 15:51:20.5891|INFO|NorthwindConsole2.Program|Option 6 selected
+2021-05-03 15:52:51.5612|INFO|NorthwindConsole2.Program|Category id: 9 updated
+2021-05-03 15:53:02.3519|INFO|NorthwindConsole2.Program|Option 9 selected
+2021-05-03 15:53:15.0896|INFO|NorthwindConsole2.Program|Displaying category id: 10 and it's active products
+2021-05-03 15:53:30.6679|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-03 15:54:18.3960|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-03 15:54:18.4889|INFO|NorthwindConsole2.Program|Product added - "Fudge ice cream"
+2021-05-03 15:56:34.5855|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-03 15:56:34.5855|INFO|NorthwindConsole2.Program|Program ended
+2021-05-10 18:50:05.2778|INFO|NorthwindConsole2.Program|Program started
+2021-05-10 18:50:14.9165|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-10 18:51:00.5066|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 18:51:00.7391|INFO|NorthwindConsole2.Program|Product added - "Red Cake"
+2021-05-10 18:51:17.4107|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-10 18:52:29.4966|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 18:52:29.6070|INFO|NorthwindConsole2.Program|Product (id: 82) updated
+2021-05-10 18:52:41.5689|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 18:52:49.2357|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-10 18:53:14.6562|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 18:53:17.1028|INFO|NorthwindConsole2.Program|Displaying discontinued products
+2021-05-10 18:53:24.4192|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 18:53:27.7586|INFO|NorthwindConsole2.Program|Displaying active products
+2021-05-10 18:53:45.8292|INFO|NorthwindConsole2.Program|Option 4 selected
+2021-05-10 18:53:57.9802|INFO|NorthwindConsole2.Program|Displaying Product ID: 1
+2021-05-10 18:54:32.3498|INFO|NorthwindConsole2.Program|Option 5 selected
+2021-05-10 18:54:45.6372|INFO|NorthwindConsole2.Program|Category Name Validation Passed
+2021-05-10 18:54:45.7151|INFO|NorthwindConsole2.Program|Category Added = "Drinks"
+2021-05-10 18:54:59.6064|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-10 18:54:59.6095|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-10 18:55:13.8458|INFO|NorthwindConsole2.Program|Option 6 selected
+2021-05-10 18:55:50.5021|INFO|NorthwindConsole2.Program|Category Name Validation Passed
+2021-05-10 18:55:50.5628|INFO|NorthwindConsole2.Program|Category id: 11 updated
+2021-05-10 18:56:04.7588|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-10 18:56:04.7588|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-10 18:56:36.6966|INFO|NorthwindConsole2.Program|Option 8 selected
+2021-05-10 18:56:36.6966|INFO|NorthwindConsole2.Program|Displaying all categories and their active products
+2021-05-10 18:56:58.1640|INFO|NorthwindConsole2.Program|Option 9 selected
+2021-05-10 18:57:03.6185|INFO|NorthwindConsole2.Program|Displaying category id: 8 and it's active products
+2021-05-10 18:57:38.0978|INFO|NorthwindConsole2.Program|Option 9 selected
+2021-05-10 18:57:41.7623|INFO|NorthwindConsole2.Program|Displaying category id: 11 and it's active products
+2021-05-10 18:57:52.1116|INFO|NorthwindConsole2.Program|Option 10 selected
+2021-05-10 18:57:55.9919|INFO|NorthwindConsole2.Program|CategoryId 11 selected
+2021-05-10 18:57:56.0915|INFO|NorthwindConsole2.Program|Category Id 11 deleted
+2021-05-10 18:58:01.0113|INFO|NorthwindConsole2.Program|Option 11 selected
+2021-05-10 18:58:22.7995|INFO|NorthwindConsole2.Program|CategoryId 82 selected
+2021-05-10 18:58:22.9081|INFO|NorthwindConsole2.Program|Product Id 82 deleted
+2021-05-10 18:58:29.7004|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-10 18:58:29.7029|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-10 18:59:08.4143|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-10 18:59:08.4143|INFO|NorthwindConsole2.Program|Program ended
+2021-05-10 19:02:42.8959|INFO|NorthwindConsole2.Program|Program started
+2021-05-10 19:02:47.6617|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-10 19:03:18.6378|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 19:03:18.8715|INFO|NorthwindConsole2.Program|Product added - "Red Cake"
+2021-05-10 19:03:23.3624|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 19:04:13.8913|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-10 19:04:15.2941|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-10 19:04:55.7770|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 19:04:55.8413|INFO|NorthwindConsole2.Program|Product added - "1"
+2021-05-10 19:04:58.9699|INFO|NorthwindConsole2.Program|Option 11 selected
+2021-05-10 19:05:01.7893|INFO|NorthwindConsole2.Program|CategoryId 84 selected
+2021-05-10 19:05:01.9093|INFO|NorthwindConsole2.Program|Product Id 84 deleted
+2021-05-10 19:05:05.1805|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-10 19:05:05.1805|INFO|NorthwindConsole2.Program|Program ended
+2021-05-10 19:05:30.3900|INFO|NorthwindConsole2.Program|Program started
+2021-05-10 19:05:32.3091|INFO|NorthwindConsole2.Program|Option 1 selected
+2021-05-10 19:05:49.8904|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 19:05:50.1269|INFO|NorthwindConsole2.Program|Product added - "Blue cake"
+2021-05-10 19:06:01.2276|INFO|NorthwindConsole2.Program|Option 2 selected
+2021-05-10 19:06:38.7130|INFO|NorthwindConsole2.Program|Product Name Validation Passed
+2021-05-10 19:06:38.7776|INFO|NorthwindConsole2.Program|Product (id: 85) updated
+2021-05-10 19:06:43.9140|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 19:07:07.5264|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-10 19:07:17.2476|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 19:07:21.5733|INFO|NorthwindConsole2.Program|Displaying discontinued products
+2021-05-10 19:07:25.1120|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 19:07:28.4715|INFO|NorthwindConsole2.Program|Displaying active products
+2021-05-10 19:07:40.2388|INFO|NorthwindConsole2.Program|Option 4 selected
+2021-05-10 19:07:46.1775|INFO|NorthwindConsole2.Program|Displaying Product ID: 85
+2021-05-10 19:08:01.8704|INFO|NorthwindConsole2.Program|Option 5 selected
+2021-05-10 19:08:27.6086|INFO|NorthwindConsole2.Program|Category Name Validation Passed
+2021-05-10 19:08:27.6803|INFO|NorthwindConsole2.Program|Category Added = "Desserts 2.0"
+2021-05-10 19:08:36.2105|INFO|NorthwindConsole2.Program|Option 6 selected
+2021-05-10 19:09:05.9308|INFO|NorthwindConsole2.Program|Category id: 12 updated
+2021-05-10 19:09:14.4400|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-10 19:09:14.4400|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-10 19:09:25.1926|INFO|NorthwindConsole2.Program|Option 8 selected
+2021-05-10 19:09:25.1926|INFO|NorthwindConsole2.Program|Displaying all categories and their active products
+2021-05-10 19:09:41.5129|INFO|NorthwindConsole2.Program|Option 9 selected
+2021-05-10 19:09:50.9855|INFO|NorthwindConsole2.Program|Displaying category id: 1 and it's active products
+2021-05-10 19:09:58.3461|INFO|NorthwindConsole2.Program|Option 10 selected
+2021-05-10 19:10:05.1075|INFO|NorthwindConsole2.Program|CategoryId 12 selected
+2021-05-10 19:10:05.2380|INFO|NorthwindConsole2.Program|Category Id 12 deleted
+2021-05-10 19:10:12.2491|INFO|NorthwindConsole2.Program|Option 11 selected
+2021-05-10 19:10:18.4910|INFO|NorthwindConsole2.Program|CategoryId 83 selected
+2021-05-10 19:10:18.6110|INFO|NorthwindConsole2.Program|Product Id 83 deleted
+2021-05-10 19:10:33.8780|INFO|NorthwindConsole2.Program|Option 3 selected
+2021-05-10 19:10:38.6579|INFO|NorthwindConsole2.Program|Displaying all products
+2021-05-10 19:10:53.6072|INFO|NorthwindConsole2.Program|Option 7 selected
+2021-05-10 19:10:53.6093|INFO|NorthwindConsole2.Program|Displaying all categories
+2021-05-10 19:11:08.6618|INFO|NorthwindConsole2.Program|Option q selected
+2021-05-10 19:11:08.6618|INFO|NorthwindConsole2.Program|Program ended
